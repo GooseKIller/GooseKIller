@@ -8,6 +8,7 @@ ML/DL: PyTorch, numpy, pandas
 Techologies & Framework i want to learn: Django, Docker, Node.js
 
 OS i work with(usually): Linux, Android
+
 I primarily work with Linux and Android operating systems, as they are suitable for my programming needs
 
 I am always open to new opportunities and challenges that allow me to put my skills to the test and learn new ones.
