@@ -1,8 +1,7 @@
 - **Name:** `Anton`.
-<p>Love Programming, AI stuff, good optimized and fast working programs.<p>
-<p>I primarily work with Linux and Android operating systems, as they are suitable for my programming needs
+- **About:** `Love Programming, AI stuff, good optimized and fast working programs. I primarily work with Linux and Android operating systems, as they are suitable for my programming needs.
 I am always open to new opportunities and challenges that allow me to put my skills to the test and learn new ones.
-Currently learning ML/DL and backend stuff</p>
+Currently learning ML/DL and backend stuff`
 
 Languages i know and learn:
 - &nbsp; `🐍Python`
