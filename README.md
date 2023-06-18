@@ -2,7 +2,7 @@ Love Programming, AI stuff, good optimized and fast working programs.
 Currently learning ML/DL and backend stuff
 
 
-Languages i know and learn: Python, Kotlin, Golang(learning now)
+Languages i know and learn: '🟡Python', '🟣Kotlin', '🔵Golang'(learning now)
 
 
 ML/DL: PyTorch, numpy, pandas
