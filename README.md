@@ -13,6 +13,9 @@ Currently learning ML/DL and backend stuff`
 - &nbsp;`🧮numpy`
 - &nbsp;`🐼pandas`
 
+**Tools**:
+- &nbsp; `🌿git`
+
 **Techologies & Framework i want to learn:**
 - &nbsp;`💻Django`
 - &nbsp;`🐳Docker`
