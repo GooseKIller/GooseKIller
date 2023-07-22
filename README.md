@@ -6,11 +6,11 @@ Currently learning ML/DL and backend stuff`
 **Languages i know and learn:**
 - &nbsp; `🐍Python`
 - &nbsp;  `🟣Kotlin`
-- &nbsp; `🔵Golang`(learning now)
+- &nbsp; `🔵Golang`
 
 **ML/DL**:
 - &nbsp;`🔥PyTorch`
-- &nbsp;`🧮numpy`
+- &nbsp;`🧮numpy, matplotlib`
 - &nbsp;`🐼pandas`
 
 **Tools**:
