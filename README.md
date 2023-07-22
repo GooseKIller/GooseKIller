@@ -10,7 +10,8 @@ Currently learning ML/DL and backend stuff`
 
 **ML/DL**:
 - &nbsp;`🔥PyTorch`
-- &nbsp;`🧮numpy, matplotlib`
+- &nbsp;`🧮numpy`
+- &nbsp;`📊matplotlib`
 - &nbsp;`🐼pandas`
 
 **Tools**:
