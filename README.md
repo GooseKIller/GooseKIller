@@ -18,9 +18,7 @@ Currently learning ML/DL and backend stuff`
 - &nbsp; `🌿git`
 
 **Techologies & Framework i want to learn:**
-- &nbsp;`💻Django`
 - &nbsp;`🐳Docker`
-- &nbsp;`🟢Node.js`
 
 **OS i work with(usually):** `Linux, Android`
 
