@@ -16,6 +16,7 @@ Currently learning ML/DL and backend stuff`
 
 **Tools**:
 - &nbsp; `🌿git`
+- &nbsp; `💾MySQL`
 
 **Techologies & Framework i want to learn:**
 - &nbsp;`🐳Docker`
