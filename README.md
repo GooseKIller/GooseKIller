@@ -7,6 +7,7 @@ Currently learning ML/DL and backend stuff`
 - &nbsp; `🐍Python`
 - &nbsp;  `🟣Kotlin`
 - &nbsp; `🔵Golang`
+- &nbsp; `🦀Rust`(learning now)
 
 **ML/DL**:
 - &nbsp;`🔥PyTorch`
